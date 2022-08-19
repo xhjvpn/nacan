@@ -12,7 +12,9 @@ cd nc
 
 # 安装依赖
 pip install --upgrade pip
+# 安装依赖
 apt install python3-pip
+# 安装依赖
 pip3 install -r requirements.txt
 # 运行
 python3 main.py
